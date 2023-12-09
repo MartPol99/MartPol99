@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartPol99
 - 👀 I’m interested in QA engeneering and product development
-- 🌱 I’m currently learning testing theory (ISTQB sylabus) and Python
+- 🌱 I’m currently learning testing theory (ISTQB sylabus) and Github
 - 💞️ I’m looking to collaborate with a company that allows me to develop in the area of my interests :)
 - 📫 How to reach me - please write  a message at polanska.marta@wp.pl
 
